@@ -109,6 +109,17 @@
 **b) ᶲ**                    
 **c) B**
 
+![image](https://user-images.githubusercontent.com/105742149/177478301-12e63ef3-f909-450e-a345-e5f48c5e6537.png)
+
+**18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?**
+
+**20. Un campo magnético cambia a razón de 〖3500x10〗^(-3) Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?** 
+
+**22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?**
+
+![image](https://user-images.githubusercontent.com/105742149/177478406-f2ef24b7-5faf-4691-8d46-201be3b20f60.png)
+
+**24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?**
 
 ### **4.	Video**
 

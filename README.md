@@ -105,7 +105,9 @@
 
 **16. En la figura 10-44, hay 500 vueltas. Determine**
 
-**a) H**                                 **b) ᶲ**                    **c) B**
+**a) H**                                 
+**b) ᶲ**                    
+**c) B**
 
 
 ### **4.	Video**

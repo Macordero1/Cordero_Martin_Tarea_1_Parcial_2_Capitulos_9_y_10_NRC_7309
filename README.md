@@ -128,6 +128,8 @@
 ### **5.	Conclusiones**
 
 * Mediante el estudio del metodo de la corriente en ramas, se puede llegar a encontrar valores desconocidos que se encuentren en un circuito electrico.
-* 
+* El analisis de nodos de igual manera mediante su aplicacion permite hallar valores desconocidos de los mismos mediante su aplicacion.
+* El estudio del campo electromagnetico es muy extenso debido a que este puede ayudar o perjudicar a las personas dependiendo el uso que se le de y la ubicacion en donde algun punto que irradie electromagnetismo se encuentre.
+
 ### **6.	Bibliografía**
 (2007). En T. L.Floyd, Principios de circuitos eléctricos Octava Edición (págs. 334-398). PEARSON Prentice Hall.

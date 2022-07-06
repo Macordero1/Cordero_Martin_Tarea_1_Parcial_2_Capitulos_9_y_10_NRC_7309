@@ -13,6 +13,8 @@
 
 ### **1.1.	Objetivo General**
 
+* Conocer mediante el analisiss de sistemas de ecuaciones su resolucion, al igual que comprender el metodo de corrientes de rama, analizando el campo magnetico, y los principios del electromagnetismo
+
 ### **1.2.	Objetivos Específicos**
 
 *  Analizar tres métodos de resolver ecuaciones simultáneas

@@ -1,4 +1,4 @@
-# Cordero_Martin_Tarea_1_Parcial_2_Capitulos_9_y_10_NRC_7309
+# Cordero_Martin_Tarea_3_Parcial_2_Capitulos_9_y_10_NRC_7309
 **Nombre del Estudiante:** Martin Cordero
 
 **Nombre del Docente:** Ing. Darwin Alulema

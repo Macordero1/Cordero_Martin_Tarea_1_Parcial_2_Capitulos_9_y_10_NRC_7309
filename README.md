@@ -127,5 +127,7 @@
 
 ### **5.	Conclusiones**
 
+* Mediante el estudio del metodo de la corriente en ramas, se puede llegar a encontrar valores desconocidos que se encuentren en un circuito electrico.
+* 
 ### **6.	Bibliografía**
 (2007). En T. L.Floyd, Principios de circuitos eléctricos Octava Edición (págs. 334-398). PEARSON Prentice Hall.

@@ -15,6 +15,13 @@
 
 ### **1.2.	Objetivos Específicos**
 
+*  Analizar tres métodos de resolver ecuaciones simultáneas
+*  Utilizar el método de la corriente en ramas paradeterminar cantidades desconocidas en un circuito
+*  Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
+*  Explicar los principios de un campo magnético
+*  Describir el principio de operación de varios tipos de dispositivos electromagnéticos
+*  Analizar el principio de inducción electromagnética
+
 ### **2.	Marco Teórico (Resumen)**
 
 ### **3.	Explicación y resolución de ejercicios o problemas**

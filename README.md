@@ -103,8 +103,9 @@
 
 **14. ¿Cuál es la fuerza magnetizaste en el problema 9 si la longitud del núcleo es de 0,2 m?**
 
-**16. En la figura 10-44, hay 500 vueltas. Determine
-a) H                                  b) ᶲ                    c) B**
+**16. En la figura 10-44, hay 500 vueltas. Determine**
+
+**a) H **                                 **b) ᶲ**                    **c) B**
 
 
 ### **4.	Video**

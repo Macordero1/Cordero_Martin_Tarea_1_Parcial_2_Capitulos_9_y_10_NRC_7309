@@ -137,7 +137,14 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/177477726-e084110c-7076-498d-aa6d-7b19e902ac81.png)
 
- 
+![image](https://user-images.githubusercontent.com/105742149/177830727-ea0ad63a-4263-42f0-95b8-634876067ba1.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177830748-6ae6694d-1619-4d9a-9dc1-9ed8e87deb82.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177830756-e1b1a1cf-61a4-4987-b29c-e85bac826f46.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177830793-9ce15bb1-ae4e-42db-b9c7-67d64bf4a3b3.png)
+
 ## **Capitulo 10**
 
 **2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?**
@@ -199,6 +206,8 @@ No hay cambio en el campo magnético entonces no se produce un voltaje inducido
 ![image](https://user-images.githubusercontent.com/105742149/177696101-ee0a5009-1248-4659-8ed3-9d8278605fa8.png)
 
 ### **4.	Video**
+
+https://youtu.be/9JOqapjGKrk
 
 ### **5.	Conclusiones**
 

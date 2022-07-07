@@ -115,6 +115,12 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/177477581-9f20e92d-2066-47c4-a746-db4d12f3b3f3.png)
 
+![image](https://user-images.githubusercontent.com/105742149/177811753-fa5609e4-2c67-4d1a-bc84-d68a7c4bbdfd.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177811776-4915c0d4-f679-4ac6-a4b9-e72a979b089a.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177811808-018d2457-c93a-4288-9097-189f2b51a5bc.png)
+
 **26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.**
 
 ![image](https://user-images.githubusercontent.com/105742149/177477627-2b304381-db8f-4081-9a9c-f185e3799178.png)

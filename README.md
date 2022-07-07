@@ -87,14 +87,17 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/177703626-0f183ab8-3f57-4819-bb72-0f034f2effa2.png)
 
-
 **18. Determine las corrientes de rama en la figura 9-28.**
 
 ![image](https://user-images.githubusercontent.com/105742149/177477384-dec785b9-ead4-40ba-8567-58898a2a66b8.png)
 
+![image](https://user-images.githubusercontent.com/105742149/177793323-9b6319cc-866f-43b6-81a5-be3febd5165b.png)
+
 **20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29**
 
 ![image](https://user-images.githubusercontent.com/105742149/177477438-fb254499-d0e1-4c4d-b96c-2d4fb096b291.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177793484-ce709d6c-e711-49d7-8e99-00db9a0ddbf4.png)
 
 **22. Determine la corriente a través de cada resistor en la figura 9-29.**
 
@@ -108,9 +111,13 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/177477627-2b304381-db8f-4081-9a9c-f185e3799178.png)
 
+![image](https://user-images.githubusercontent.com/105742149/177793605-e9e0dfc0-e590-4dfc-9d31-56cbb133499c.png)
+
 **28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.**
 
 ![image](https://user-images.githubusercontent.com/105742149/177477677-ac21df22-1c4a-43e7-85fe-7c88c15adf43.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177793889-6f9d3f91-3baa-4864-b86c-85577ccda20f.png)
 
 **30. Determine el voltaje en los puntos A, B y C en la figura 9-34**
 

@@ -103,6 +103,14 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/177477516-0b76d2c9-30c1-4618-a023-db200a96ce83.png)
 
+![image](https://user-images.githubusercontent.com/105742149/177811495-d164bbca-efa5-4257-b768-9d65271a20e1.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177811529-14e5a0af-2cd4-4cd7-9a33-f8a209b2bf0a.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177811551-ce42e99e-828c-4621-803b-bcf14622c40b.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177811594-1d888c45-75c1-41bc-93cc-0276c0c59df3.png)
+
 **24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?**
 
 ![image](https://user-images.githubusercontent.com/105742149/177477581-9f20e92d-2066-47c4-a746-db4d12f3b3f3.png)

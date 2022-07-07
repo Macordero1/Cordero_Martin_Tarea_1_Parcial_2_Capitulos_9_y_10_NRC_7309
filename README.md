@@ -26,6 +26,8 @@
 
 ### **2.	Marco Teórico (Resumen)**
 
+![image](https://user-images.githubusercontent.com/105742149/177688273-95a92e98-f341-4d05-9bb8-4562df77c23d.png)
+
 ### **3.	Explicación y resolución de ejercicios o problemas**
 
 ## **Capitulo 9**

@@ -28,6 +28,16 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/177688273-95a92e98-f341-4d05-9bb8-4562df77c23d.png)
 
+![image](https://user-images.githubusercontent.com/105742149/177688329-53ef28bb-1a75-4766-a41b-adf571cd4e45.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177688359-961ef65b-932b-4992-8545-121509a51d78.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177688463-68fdf0ed-d93c-4a23-a8dc-1b4ae80112e1.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177688490-a6dacfaa-233d-4159-b43c-4a4d3487b8a1.png)
+
+![image](https://user-images.githubusercontent.com/105742149/177688508-bcdf1104-e64f-469f-a6ab-195709b79158.png)
+
 ### **3.	Explicación y resolución de ejercicios o problemas**
 
 ## **Capitulo 9**

@@ -103,19 +103,33 @@
 
 **2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?**
 
+![image](https://user-images.githubusercontent.com/105742149/177697546-9cd44b74-97da-49ba-b06c-c721fe1ae138.png)
+
 **4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.**
+
+![image](https://user-images.githubusercontent.com/105742149/177697601-76fc9cb7-c356-4568-8684-5588374f1e09.png)
 
 **6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?**
 
+La aguja gira 180°
+
 **8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de 〖150x10〗^(-7) Wb/At*m**
 
+![image](https://user-images.githubusercontent.com/105742149/177698222-6574b894-c110-4b1c-95c8-ff582f61e09b.png)
+
 **10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
+
+Al activar un selenoide el embolo se retrae
 
 **12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.**
 
 ![image](https://user-images.githubusercontent.com/105742149/177477954-13f49aea-98f3-4998-b422-4f63e60f2706.png)
 
+El relé conecta +9 voltios al pin Nro 2 y hace que se prenda la lampara Nro2 y que se apague la lampara Nro 1.
+
 **14. ¿Cuál es la fuerza magnetizaste en el problema 9 si la longitud del núcleo es de 0,2 m?**
+
+![image](https://user-images.githubusercontent.com/105742149/177698860-b9f5612a-54ab-492f-8b8b-9e5850d10bf9.png)
 
 **16. En la figura 10-44, hay 500 vueltas. Determine**
 
@@ -125,15 +139,25 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/177478301-12e63ef3-f909-450e-a345-e5f48c5e6537.png)
 
+![image](https://user-images.githubusercontent.com/105742149/177698954-910a7da9-bc3f-433b-8ed3-7d4f783d4017.png)
+
 **18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?**
 
+El voltaje inducido se duplica cuando la tasa de cambio de lujo magnético se duplica.
+
 **20. Un campo magnético cambia a razón de 〖3500x10〗^(-3) Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?** 
+
+![image](https://user-images.githubusercontent.com/105742149/177699200-d6d80129-ca8e-41f2-992f-d1e00153ef7b.png)
 
 **22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?**
 
 ![image](https://user-images.githubusercontent.com/105742149/177478406-f2ef24b7-5faf-4691-8d46-201be3b20f60.png)
 
+No hay cambio en el campo magnético entonces no se produce un voltaje inducido
+
 **24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?**
+
+![image](https://user-images.githubusercontent.com/105742149/177696101-ee0a5009-1248-4659-8ed3-9d8278605fa8.png)
 
 ### **4.	Video**
 
